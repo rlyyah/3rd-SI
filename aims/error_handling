@@ -1,0 +1,67 @@
+    What are the three major groups of programming errors? Give an example to each of them!
+
+        -Syntax errors
+
+            leaving out a keyword
+            putting a keyword in the wrong place
+            leaving out a symbol, such as a colon, comma or brackets
+            misspelling a keyword
+            incorrect indentation
+            empty block
+
+        -Runtime errors
+
+            division by zero
+            performing an operation on incompatible types
+            using an identifier which has not been defined
+            accessing a list element, dictionary value or object attribute which doesn’t exist
+            trying to access a file which doesn’t exist
+
+        -Logical errors
+
+
+            using the wrong variable name
+            indenting a block to the wrong level
+            using integer division instead of floating-point division
+            getting operator precedence wrong
+            making a mistake in a boolean expression
+            off-by-one, and other numerical errors
+
+    What are exceptions in Python?
+        
+        Python uses them to indicate that something exceptional has occurred,
+         and that your program cannot continue unless it is handled.
+    
+    What is the try-except statement good for in Python?
+
+        For catching potencial errors in your code - especially for user input and file reading
+
+    What is the structure of the try and except statement in Python? Which statement can be used multiple times?
+
+        try:
+            #line of code that we want to check whether it gives an error
+        except error_name:
+            #what do we want to do after an error occurs
+        except error_name_bis:
+            #etc.
+        except (error_one, error_two):
+            #blah blah blah
+
+    When should we use if and when try and except in our code to prevent errors in Python?
+
+
+    What does the else and finally statement in a try-except block in Python?
+    How to print out the details of the exception occured in Python?
+    What is the raise statement good for in Python?
+    What techniques can you use while debugging a program in Python?
+    What is logging and how does it work in Python?
+    What are logging levels in Python?
+
+
+        CRITICAL – for very serious errors
+        ERROR – for less serious errors
+        WARNING – for warnings
+        INFO – for important informative messages
+        DEBUG – for detailed debugging messages
+
+    What is the parent exception (more general type) for UnicodeError exception in Python?

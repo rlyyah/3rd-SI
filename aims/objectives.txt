@@ -1,0 +1,8 @@
+    Understanding what variables are in Computer Science
+    Training code comprehension skills
+    Deepening the understanding of learnt things: file handling, list and string operations, control statements, git
+    Preparations for the next TW week:
+        learning coding with modules
+        learning error handling
+        preparation for a lightweight ERP (Enterprise Resource Planning software) project, which will be the team level assignment on the next TW week
+        preparation for the personal assessment: please collect all your questions regarding the studied curriculum to be ready to discuss it on the next TW week
